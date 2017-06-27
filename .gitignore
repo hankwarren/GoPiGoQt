@@ -1,0 +1,6 @@
+*.py[cod]
+*.sav
+.*.swp
+Junk/
+*.zip
+tmp
